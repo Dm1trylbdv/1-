@@ -1,0 +1,8 @@
+{
+ "headers": {
+   "/*": {
+     "X-Author": "dmitrylbdv159",
+     "Access-Control-Allow-Origin": "*"
+   }
+ }
+}
